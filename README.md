@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ruturajbiswal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruturajbiswal1" height="30" width="40" /></a>
-<a href="https://fb.com/ruturaj biswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruturaj biswal" height="30" width="40" /></a>
+<a href="https://fb.com/ruturajbiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruturaj biswal" height="30" width="40" /></a>
 <a href="https://instagram.com/ruturaj2003.05004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruturaj2003.05004" height="30" width="40" /></a>
 </p>
 
