@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **There are about 700 programming languages.**
 
-- 🌏 My Page **https://ruturajbiswal.github.io/ruturajbiswal** 
+- 🌏 My Page **ruturajbiswal.github.io/ruturajbiswal** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
