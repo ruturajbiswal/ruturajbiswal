@@ -1,0 +1,153 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Andika:ital@0;1&family=Arvo:ital@0;1&family=Lato:ital,wght@0,400;1,300&display=swap');
+
+
+/* 
+
+
+font-family: 'Andika', sans-serif;
+font-family: 'Arvo', serif;
+font-family: 'Lato', sans-serif;
+ 
+
+
+*/
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family:'Lato', sans-serif;
+   
+
+  
+   
+    
+}
+body{
+  background: rgba(0,0,0,0.6) url('../assets/bg-img.jpg') no-repeat;
+  background-size: cover;
+  background-blend-mode: darken;
+}
+
+.navbar{
+    text-align: center;
+    padding-top: 5rem;
+}
+nav a{
+    margin: 1rem;
+    cursor: default;
+    color:rgb(232, 230, 218)
+   ;
+   font-weight: 900; 
+  
+
+
+}
+nav a:hover{
+    -webkit-animation: glow 2s ease-in-out infinite alternate;
+    -moz-animation: glow 2s ease-in-out infinite alternate;
+    animation: glow 2s ease-in-out infinite alternate;
+
+}
+@-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px rgb(255, 89, 0), 0 0 20px rgb(254, 110, 0), 0 0 30px #d3c206, 0 0 40px #d9e807, 0 0 50px #e7bb0f, 0 0 60px #f4dc06, 0 0 70px #e4a00e;
+    }
+    to {
+      text-shadow: 0 0 20px rgb(246, 70, 6), 0 0 30px #fa6a02, 0 0 40px #fa6a02, 0 0 50px #fa6a02, 0 0 60px #fa6a02, 0 0 70px #fa6a02, 0 0 80px #fa6a02;
+    }
+  }
+/* .active{
+  color:rgb(249, 242, 243) ;
+  font-family: 'Andika';
+ box-sizing: border-box;
+ text-shadow: 1px 5px 2px rgb(235, 164, 10), 4px 5px 25px rgb(242, 155, 25), 6px 5px 5px rgb(240, 178, 8);
+ opacity: blured;
+}*/
+img{
+  position: relative;
+  width: 8rem;
+  height: 6rem;
+top: 1rem;
+left: 7rem;
+
+}
+.profile{
+
+justify-content: center;
+align-items: center;
+border: 1px solid rgba(255,255,255,0.3);
+width: 22rem;
+height:20rem ;
+margin: 4rem auto;
+
+background:rgba(255,255,255,0.2);
+border-radius: 16px;
+box-shadow:0 4px 30px rgba(0,0,0,0.1);
+backdrop-filter: blur(5px);
+}
+.profile h2{
+  text-align: center;
+ color: aliceblue;
+ font-size: x-large;
+}
+.profile p{
+  text-align: center;
+
+  color: antiquewhite;
+  font-size: large;
+}
+.link{
+  display: flex;
+
+  
+}
+.link a img{
+  width: 2rem;
+  height: 2rem;
+  margin: 0 1rem 0 1rem;
+ 
+  position: relative;
+  top: 4rem;
+  left: 5rem;
+  
+}
+
+
+.hrrr{
+  
+  align-items: center;
+  justify-content: center;
+position: relative;
+width:12rem;
+left: 5rem;
+margin: 5px 0 15px 0;
+
+
+}
+
+/* for menu */
+.menu{
+  display: none;
+  position: absolute;
+  cursor: pointer;
+  right: 5%;
+  top:15px;
+}
+.line{
+  width: 30px;
+  background-color: rgb(175, 183, 183);
+  border-radius: 6px;
+  height: 4px;
+  margin: 3px 3px;
+
+}
+/* 
+@media (max-width:940px){
+  .navbar{
+
+  }
+} */
+
+
